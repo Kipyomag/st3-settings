@@ -1,0 +1,49 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ColorPicker",
+		"DevDocs",
+		"DocBlockr",
+		"Doctrine Snippets",
+		"Emmet",
+		"ERB Autocomplete",
+		"Grunt",
+		"Jade",
+		"JavaScript Completions",
+		"Laravel Blade Highlighter",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"PlainTasks",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Symfony2 Snippets",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"Theme - Tech49",
+		"WordPress Completions"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
